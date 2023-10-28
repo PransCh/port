@@ -31,4 +31,3 @@ Credits:
 
 License:
 -----------------------
-This template is under Free License - https://pransch.github.io/protfolio/
